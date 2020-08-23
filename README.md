@@ -3,7 +3,7 @@ A repository dedicated to storing all my React.js projects &amp; mini-apps to pl
 
 
 ## 1. ReactShop App
-Moblie React shopping site that uses the core React components of routers, springs and hooks. It makes an API call to a dummy server which retrives product listings to be displayed within the app.
+Moblie React shopping site that uses the core React components of routers, springs and hooks. It makes an axios API request to a dummy server which retrives product listings to be displayed within the app.
 
 <p float="left">
   <img src="/react-shop-app/mark-up-images/p1.png" width="328.95" height="460.8">
