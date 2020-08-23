@@ -21,8 +21,8 @@ function Navigation() {
   });
   return (
     <nav>
-      <span className="text-xl" onClick={() => setShowMenu(!showMenu)}>
-        <FontAwesomeIcon icon={faBars} />
+      <span className="text-xl white FontAwesomeIcon "  onClick={() => setShowMenu(!showMenu)}>
+        <FontAwesomeIcon  icon={faBars} />
       </span>
       {/* Menu Mask */}
       {masktransitions.map(
